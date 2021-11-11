@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">project101</string>
+    <string name="we_connect">We Connect</string>
+    <string name="todo2">TODO2</string>
+    <string name="todo1">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="email">joe@email.com</string>
+    <string name="password1">password</string>
+    <string name="Login">Login</string>
+    <string name="forget_password1"><a name="www.google.com"><u>Forget Password</u></a></string>
+    <string name="Sign_Up"><a name="www.google.com"><u>Sign Up</u></a></string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="password">password</string>
+    <string name="joe_email_com">joe@email.com</string>
+</resources>

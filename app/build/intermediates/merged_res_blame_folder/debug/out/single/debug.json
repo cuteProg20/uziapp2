@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotoitalic.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotoitalic.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_polygon_3.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_polygon_3.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/layout_activity_home_screen.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_lexendgigaextralight.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigaextralight.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_rectangle.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/rectangle.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotobolditalic.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotobolditalic.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_lexendgigathin.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigathin.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotolightitalic.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotolightitalic.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotoregular.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotoregular.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotothinitalic.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotothinitalic.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_ucon.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_ucon.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotolight.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotolight.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_password.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_password.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_polygon_2.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_polygon_2.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_lexendgigablack.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigablack.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_lexendgigamedium.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigamedium.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotoblack.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotoblack.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_lexendgigalight.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigalight.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_faint_password.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_faint_password.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_faint_user.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_faint_user.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_lexendgigaregular.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigaregular.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotomediumitalic.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotomediumitalic.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_inputrect.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/inputrect.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotomedium.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotomedium.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_uzi_icon.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_uzi_icon.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_background.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_background.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_lexendgigabold.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigabold.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotoblackitalic.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotoblackitalic.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_user.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_user.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_polygon1.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_polygon1.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/layout_login_page.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/layout/login_page.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotothin.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotothin.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_robotobold.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/robotobold.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_lexendgigasemibold.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigasemibold.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_lexendgigaextrabold.ttf.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigaextrabold.ttf"
+    }
+]
