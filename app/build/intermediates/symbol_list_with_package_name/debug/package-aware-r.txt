@@ -2622,6 +2622,8 @@ string todo2
 string todo3
 string todo4
 string todo5
+string todo7
+string todo8
 string we_connect
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

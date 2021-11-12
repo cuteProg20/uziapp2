@@ -2621,6 +2621,8 @@ int string todo2 0x7f100071
 int string todo3 0x7f100072
 int string todo4 0x7f100073
 int string todo5 0x7f100074
+int string todo7 0x7f100076
+int string todo8 0x7f100077
 int string we_connect 0x7f100075
 int style AlertDialog_AppCompat 0x7f110000
 int style AlertDialog_AppCompat_Light 0x7f110001
