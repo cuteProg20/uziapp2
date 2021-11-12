@@ -1,8 +1,10 @@
 package com.example.project101
 
 import android.os.Bundle
+import android.widget.EditText
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.graphics.drawable.DrawableCompat
 
 
 class LoginPage: AppCompatActivity() {
@@ -28,7 +30,7 @@ lateinit var imageView: ImageView
 
             }
 
-            override fun afterTextChanged(s: Editable)
+            override fun afterTextChanged(s: EditText)
             {
                 if (s.length != 0)
                 {
