@@ -24,6 +24,10 @@
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_uzi_icon.xml"
     },
     {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/layout_activity_sign_up.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
         "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/layout/activity_main.xml"
     },

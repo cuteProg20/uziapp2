@@ -23,17 +23,19 @@ class LoginPage: AppCompatActivity() {
 
         imageView = findViewById(R.id.imageView3)
 
-        viewInitializations()
+//        viewInitializations()
     }
 
-    private fun viewInitializations() {
-        TODO("Not yet implemented")
-        etEmail = findViewById(R.id.editTextTextEmailAddress)
-        etPassword = findViewById(R.id.editTextTextPassword)
-
-        // To show back button in actionbar
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
-    }
+//    private fun viewInitializations() {
+//        TODO("Not yet implemented")
+//
+//        @file:Suppress("UNREACHABLE_CODE", "UnusedEquals")
+//        etEmail = findViewById(R.id.editTextTextEmailAddress)
+//
+//        @file:Suppress("UNREACHABLE_CODE", "UnusedEquals")
+//        etPassword = findViewById(R.id.editTextTextPassword)
+//
+//    }
 
     // Checking if the input in form is valid
     fun validateInput(): Boolean {
