@@ -33,6 +33,7 @@
             android:layout_height="115dp"
             android:contentDescription="@string/todo7"
             app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="30dp"
             app:srcCompat="@drawable/ic_poly11" />
 
         <ImageView
@@ -40,7 +41,7 @@
             android:layout_width="184dp"
             android:layout_height="68dp"
             android:contentDescription="@string/todo1"
-            android:layout_marginTop="70dp"
+            android:layout_marginTop="10dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.471"
@@ -58,7 +59,7 @@
             android:autofillHints="janeth"
             android:background="@drawable/inputrect"
             android:drawableStart="@drawable/ic_user"
-            android:drawablePadding="10dp"
+            android:drawablePadding="5dp"
             android:ems="10"
             android:hint="@string/email"
             android:inputType="textEmailAddress"
@@ -77,7 +78,7 @@
             android:autofillHints="1234"
             android:background="@drawable/inputrect"
             android:drawableStart="@drawable/ic_password"
-            android:drawablePadding="10dp"
+            android:drawablePadding="5dp"
             android:ems="10"
             android:hint="@string/password"
             android:layout_marginStart="10dp"
@@ -131,6 +132,7 @@
             android:layout_marginTop="16dp"
             android:fontFamily="@font/robotobold"
             android:text="@string/Sign_Up"
+            android:onClick="goToSignup"
             android:textColor="@color/white"
             android:textSize="15sp"
             app:layout_constraintBottom_toBottomOf="parent"

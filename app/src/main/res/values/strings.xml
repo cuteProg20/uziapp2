@@ -5,8 +5,10 @@
     <string name="todo1">TODO</string>
     <string name="todo5">TODO</string>
     <string name="email">joe@email.com</string>
-    <string name="password1">password</string>
+    <string name="password1">New password</string>
+    <string name="paswword3">Conform new password</string>
     <string name="Login">Login</string>
+    <string name="Submit">Submit</string>
     <string name="forget_password1" translatable="false"><a name="www.google.com"><u>Forget Password</u></a></string>
     <string name="Sign_Up" translatable="false"><a name="www.google.com"><u>Sign Up</u></a></string>
     <string name="todo3">TODO</string>

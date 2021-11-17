@@ -20,6 +20,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Project101" >
         <activity
+            android:name="com.example.project101.ForgetPassword"
+            android:exported="false" />
+        <activity
             android:name="com.example.project101.Sign_Up"
             android:exported="false" />
         <activity

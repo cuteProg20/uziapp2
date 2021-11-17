@@ -2036,6 +2036,7 @@ id easeOut
 id east
 id editTextTextEmailAddress
 id editTextTextPassword
+id editTextTextPassword1
 id edit_query
 id elastic
 id end
@@ -2413,6 +2414,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_forget_password
 layout activity_home_screen
 layout activity_main
 layout activity_sign_up
@@ -2508,6 +2510,7 @@ mipmap ic_launcher_round
 plurals mtrl_badge_content_description
 string Login
 string Sign_Up
+string Submit
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -2612,6 +2615,7 @@ string mtrl_picker_toggle_to_year_selection
 string password
 string password1
 string password_toggle_content_description
+string paswword3
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
