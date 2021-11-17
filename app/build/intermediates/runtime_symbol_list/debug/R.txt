@@ -2035,6 +2035,7 @@ int id easeOut 0x7f0900a8
 int id east 0x7f0900a9
 int id editTextTextEmailAddress 0x7f0900aa
 int id editTextTextPassword 0x7f0900ab
+int id editTextTextPassword1 0x7f0901e2
 int id edit_query 0x7f0900ac
 int id elastic 0x7f0900ad
 int id end 0x7f0900ae
@@ -2412,6 +2413,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0c0018
 int layout abc_search_view 0x7f0c0019
 int layout abc_select_dialog_material 0x7f0c001a
 int layout abc_tooltip 0x7f0c001b
+int layout activity_forget_password 0x7f0c0074
 int layout activity_home_screen 0x7f0c001c
 int layout activity_main 0x7f0c001d
 int layout activity_sign_up 0x7f0c0073
@@ -2507,6 +2509,7 @@ int mipmap ic_launcher_round 0x7f0e0001
 int plurals mtrl_badge_content_description 0x7f0f0000
 int string Login 0x7f100000
 int string Sign_Up 0x7f100001
+int string Submit 0x7f100078
 int string abc_action_bar_home_description 0x7f100002
 int string abc_action_bar_up_description 0x7f100003
 int string abc_action_menu_overflow_description 0x7f100004
@@ -2611,6 +2614,7 @@ int string mtrl_picker_toggle_to_year_selection 0x7f100066
 int string password 0x7f100067
 int string password1 0x7f100068
 int string password_toggle_content_description 0x7f100069
+int string paswword3 0x7f100079
 int string path_password_eye 0x7f10006a
 int string path_password_eye_mask_strike_through 0x7f10006b
 int string path_password_eye_mask_visible 0x7f10006c
