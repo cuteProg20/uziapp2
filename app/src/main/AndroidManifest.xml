@@ -10,14 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Project101">
         <activity
+            android:name=".Sign_Up"
+            android:exported="false" />
+        <activity
             android:name=".HomeScreen"
             android:exported="false" />
-
         <activity
             android:name=".LoginPage"
             android:exported="false"
-            android:windowSoftInputMode="adjustResize"/>
-
+            android:windowSoftInputMode="adjustResize" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
