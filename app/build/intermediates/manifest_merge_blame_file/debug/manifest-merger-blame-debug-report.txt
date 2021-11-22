@@ -26,52 +26,51 @@
 18-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:9:9-61
 19        android:supportsRtl="true"
 19-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:10:9-35
-20        android:testOnly="true"
-21        android:theme="@style/Theme.Project101" >
-21-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:11:9-48
-22        <activity
-22-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:12:9-14:40
-23            android:name="com.example.project101.ForgetPassword"
-23-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:13:13-43
-24            android:exported="false" />
-24-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:14:13-37
-25        <activity
-25-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:15:9-17:40
-26            android:name="com.example.project101.Sign_Up"
-26-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:16:13-36
-27            android:exported="false" />
-27-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:17:13-37
-28        <activity
-28-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:18:9-20:40
-29            android:name="com.example.project101.HomeScreen"
-29-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:19:13-39
-30            android:exported="false" />
-30-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:20:13-37
-31        <activity
-31-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:21:9-24:58
-32            android:name="com.example.project101.LoginPage"
-32-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:22:13-38
-33            android:exported="false"
-33-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:23:13-37
-34            android:windowSoftInputMode="adjustResize" />
-34-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:24:13-55
-35        <activity
-35-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:25:9-33:20
-36            android:name="com.example.project101.MainActivity"
-36-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:26:13-41
-37            android:exported="true" >
-37-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:27:13-36
-38            <intent-filter>
-38-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:28:13-32:29
-39                <action android:name="android.intent.action.MAIN" />
-39-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:29:17-69
-39-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:29:25-66
-40
-41                <category android:name="android.intent.category.LAUNCHER" />
-41-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:31:17-77
-41-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:31:27-74
-42            </intent-filter>
-43        </activity>
-44    </application>
-45
-46</manifest>
+20        android:theme="@style/Theme.Project101" >
+20-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:11:9-48
+21        <activity
+21-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:12:9-14:40
+22            android:name="com.example.project101.ForgetPassword"
+22-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:13:13-43
+23            android:exported="false" />
+23-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:14:13-37
+24        <activity
+24-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:15:9-17:40
+25            android:name="com.example.project101.Sign_Up"
+25-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:16:13-36
+26            android:exported="false" />
+26-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:17:13-37
+27        <activity
+27-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:18:9-20:40
+28            android:name="com.example.project101.HomeScreen"
+28-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:19:13-39
+29            android:exported="false" />
+29-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:20:13-37
+30        <activity
+30-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:21:9-24:58
+31            android:name="com.example.project101.LoginPage"
+31-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:22:13-38
+32            android:exported="false"
+32-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:23:13-37
+33            android:windowSoftInputMode="adjustResize" />
+33-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:24:13-55
+34        <activity
+34-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:25:9-33:20
+35            android:name="com.example.project101.MainActivity"
+35-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:26:13-41
+36            android:exported="true" >
+36-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:27:13-36
+37            <intent-filter>
+37-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:28:13-32:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:29:17-69
+38-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:29:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:31:17-77
+40-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:31:27-74
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>

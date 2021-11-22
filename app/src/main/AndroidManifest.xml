@@ -10,10 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Project101">
         <activity
+            android:name=".ForgetPassword2"
+            android:exported="false" />
+        <activity
             android:name=".ForgetPassword"
             android:exported="false" />
         <activity
-            android:name=".Sign_Up"
+            android:name=".SignUp"
             android:exported="false" />
         <activity
             android:name=".HomeScreen"

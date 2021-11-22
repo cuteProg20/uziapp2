@@ -31,10 +31,11 @@
             android:id="@+id/imageView3"
             android:layout_width="137dp"
             android:layout_height="115dp"
+            android:layout_marginTop="30dp"
             android:contentDescription="@string/todo7"
             app:layout_constraintStart_toStartOf="parent"
-            android:layout_marginTop="30dp"
-            app:srcCompat="@drawable/ic_poly11" />
+            app:srcCompat="@drawable/ic_poly11"
+            tools:ignore="ImageContrastCheck" />
 
         <ImageView
             android:id="@+id/imageView"
@@ -129,20 +130,21 @@
             android:id="@+id/textView3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
             android:layout_marginTop="16dp"
             android:fontFamily="@font/robotobold"
-            android:text="@string/Sign_Up"
+            android:gravity="center_horizontal"
+            android:minHeight="48dp"
             android:onClick="goToSignup"
+            android:text="@string/Sign_Up"
             android:textColor="@color/white"
             android:textSize="15sp"
             app:layout_constraintBottom_toBottomOf="parent"
-            android:layout_gravity="center_horizontal"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/button"
-            app:layout_constraintVertical_bias="0.032"
-            android:gravity="center_horizontal"/>
+            app:layout_constraintVertical_bias="0.032" />
 
         <ImageView
             android:id="@+id/imageView6"
@@ -151,7 +153,8 @@
             android:layout_gravity="center_horizontal"
             android:contentDescription="@string/todo8"
             app:layout_constraintTop_toBottomOf="@+id/textView3"
-            app:srcCompat="@drawable/ic_poly12" />
+            app:srcCompat="@drawable/ic_poly12"
+            tools:ignore="ImageContrastCheck" />
 
     </LinearLayout>
 
