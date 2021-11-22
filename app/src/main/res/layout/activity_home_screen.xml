@@ -6,4 +6,16 @@
     android:layout_height="match_parent"
     tools:context=".HomeScreen">
 
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="300dp"
+        android:layout_height="61dp"
+        android:background="@drawable/bottom_nav"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="663dp" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
+
