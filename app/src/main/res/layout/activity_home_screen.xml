@@ -22,6 +22,15 @@
         app:itemIconTint="@drawable/item_selector"
         />
 
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView"
+        android:name="com.example.project101.HomeFragment"
+        android:layout_width="413dp"
+        android:layout_height="573dp"
+        app:layout_constraintBottom_toTopOf="@+id/bottomNavigationView"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:ignore="MissingConstraints"
+        tools:layout="@layout/fragment_home" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

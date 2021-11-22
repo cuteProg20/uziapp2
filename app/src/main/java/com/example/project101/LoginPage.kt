@@ -84,5 +84,11 @@ class LoginPage: AppCompatActivity() {
         val intent = Intent(this, SignUp::class.java)
         startActivity(intent)
     }
+    fun goToHome(v: View) {
+        // Open your SignUp Activity if the user wants to signup
+        // Visit this article to get SignupActivity code https://handyopinion.com/signup-activity-in-android-studio-kotlin-java/
+        val intent = Intent(this, HomeScreen::class.java)
+        startActivity(intent)
+    }
 
 }

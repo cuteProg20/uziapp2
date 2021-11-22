@@ -5,10 +5,15 @@
       <map>
         <entry key="app/src/main/res/drawable/bottom_nav.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/ic_background.xml" value="0.4197916666666667" />
+        <entry key="app/src/main/res/drawable/ic_flag_tanzania.xml" value="0.40520833333333334" />
         <entry key="app/src/main/res/drawable/ic_home_12_filled.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/ic_password.xml" value="0.4197916666666667" />
+        <entry key="app/src/main/res/drawable/ic_poly11.xml" value="0.40520833333333334" />
+        <entry key="app/src/main/res/drawable/ic_polygon1.xml" value="0.40520833333333334" />
+        <entry key="app/src/main/res/drawable/ic_polygon_2.xml" value="0.40520833333333334" />
+        <entry key="app/src/main/res/drawable/ic_polygon_3.xml" value="0.40520833333333334" />
         <entry key="app/src/main/res/drawable/inputrect.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/item_selector.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/rectangle.xml" value="0.4197916666666667" />
@@ -16,7 +21,7 @@
         <entry key="app/src/main/res/layout/activity_forget_password2.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4036458333333333" />
-        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.22083333333333333" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_deals.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.38958333333333334" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.4036458333333333" />
