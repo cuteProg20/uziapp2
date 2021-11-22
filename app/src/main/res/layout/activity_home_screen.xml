@@ -14,8 +14,14 @@
         android:background="@drawable/bottom_nav"
         app:menu="@menu/bottom_nav"
         tools:ignore="MissingConstraints"
+        android:layout_margin="30dp"
+        app:itemRippleColor="@android:color/transparent"
         tools:layout_editor_absoluteX="55dp"
-        tools:layout_editor_absoluteY="629dp" />
+        tools:layout_editor_absoluteY="629dp"
+        app:labelVisibilityMode="unlabeled"
+        app:itemIconTint="@drawable/item_selector"
+        />
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
