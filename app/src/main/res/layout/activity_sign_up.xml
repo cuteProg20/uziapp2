@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/purple_200">
+    android:background="@color/purple_200"
+    tools:context=".SignUp">
 
 
     <ScrollView
@@ -35,7 +36,9 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:srcCompat="@drawable/ic_poly11"
                 android:contentDescription="@string/todo7" />
-
+    <androidx.constraintlayout.widget.Group
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
             <ImageView
                 android:id="@+id/imageView"
                 android:layout_width="184dp"
@@ -174,6 +177,8 @@
                 app:layout_constraintTop_toBottomOf="@+id/button"
                 app:layout_constraintVertical_bias="0.032"
                 android:gravity="center_horizontal"/>
+
+</androidx.constraintlayout.widget.Group>
 
             <ImageView
                 android:id="@+id/imageView6"

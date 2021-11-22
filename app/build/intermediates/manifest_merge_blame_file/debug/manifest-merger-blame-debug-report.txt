@@ -11,11 +11,11 @@
 9-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:5:5-34:19
+11-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:5:5-37:19
 12        android:allowBackup="true"
 12-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.7.0] /Users/developer/.gradle/caches/transforms-3/22fc58c1aba25a38624b19fcaec4a163/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.7.0] /Users/developer/.gradle/caches/transforms-3/6006d603408a8c1ed0edf3e550c48eb5/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:icon="@drawable/ic_launcher_foreground"
@@ -26,51 +26,80 @@
 18-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:9:9-61
 19        android:supportsRtl="true"
 19-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:10:9-35
-20        android:theme="@style/Theme.Project101" >
-20-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:11:9-48
-21        <activity
-21-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:12:9-14:40
-22            android:name="com.example.project101.ForgetPassword"
-22-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:13:13-43
-23            android:exported="false" />
-23-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:14:13-37
-24        <activity
-24-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:15:9-17:40
-25            android:name="com.example.project101.Sign_Up"
-25-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:16:13-36
-26            android:exported="false" />
-26-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:17:13-37
-27        <activity
-27-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:18:9-20:40
-28            android:name="com.example.project101.HomeScreen"
-28-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:19:13-39
-29            android:exported="false" />
-29-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:20:13-37
-30        <activity
-30-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:21:9-24:58
-31            android:name="com.example.project101.LoginPage"
-31-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:22:13-38
-32            android:exported="false"
-32-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:23:13-37
-33            android:windowSoftInputMode="adjustResize" />
-33-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:24:13-55
+20        android:testOnly="true"
+21        android:theme="@style/Theme.Project101" >
+21-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:11:9-48
+22        <activity
+22-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:12:9-14:40
+23            android:name="com.example.project101.ForgetPassword2"
+23-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:13:13-44
+24            android:exported="false" />
+24-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:14:13-37
+25        <activity
+25-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:15:9-17:40
+26            android:name="com.example.project101.ForgetPassword"
+26-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:16:13-43
+27            android:exported="false" />
+27-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:17:13-37
+28        <activity
+28-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:18:9-20:40
+29            android:name="com.example.project101.SignUp"
+29-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:19:13-35
+30            android:exported="false" />
+30-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:20:13-37
+31        <activity
+31-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:21:9-23:40
+32            android:name="com.example.project101.HomeScreen"
+32-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:22:13-39
+33            android:exported="false" />
+33-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:23:13-37
 34        <activity
-34-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:25:9-33:20
-35            android:name="com.example.project101.MainActivity"
-35-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:26:13-41
-36            android:exported="true" >
-36-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:27:13-36
-37            <intent-filter>
-37-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:28:13-32:29
-38                <action android:name="android.intent.action.MAIN" />
-38-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:29:17-69
-38-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:29:25-66
-39
-40                <category android:name="android.intent.category.LAUNCHER" />
-40-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:31:17-77
-40-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:31:27-74
-41            </intent-filter>
-42        </activity>
-43    </application>
-44
-45</manifest>
+34-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:24:9-27:58
+35            android:name="com.example.project101.LoginPage"
+35-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:25:13-38
+36            android:exported="false"
+36-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:26:13-37
+37            android:windowSoftInputMode="adjustResize" />
+37-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:27:13-55
+38        <activity
+38-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:28:9-36:20
+39            android:name="com.example.project101.MainActivity"
+39-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:29:13-41
+40            android:exported="true" >
+40-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:30:13-36
+41            <intent-filter>
+41-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:31:13-35:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:32:17-69
+42-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:32:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:34:17-77
+44-->/Users/developer/AndroidStudioProjects/project102/app/src/main/AndroidManifest.xml:34:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <provider
+48-->[androidx.emoji2:emoji2:1.0.0] /Users/developer/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.emoji2:emoji2:1.0.0] /Users/developer/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+50            android:authorities="com.example.project101.androidx-startup"
+50-->[androidx.emoji2:emoji2:1.0.0] /Users/developer/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+51            android:exported="false" >
+51-->[androidx.emoji2:emoji2:1.0.0] /Users/developer/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+52            <meta-data
+52-->[androidx.emoji2:emoji2:1.0.0] /Users/developer/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+53-->[androidx.emoji2:emoji2:1.0.0] /Users/developer/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+54                android:value="androidx.startup" />
+54-->[androidx.emoji2:emoji2:1.0.0] /Users/developer/.gradle/caches/transforms-3/0c8b21db498ae6b6ba22706b7f0dbd1b/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+55            <meta-data
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/developer/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/developer/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+57                android:value="androidx.startup" />
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/developer/.gradle/caches/transforms-3/a889c36c21c1e2bc116f811fb6c47330/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+58        </provider>
+59    </application>
+60
+61</manifest>
