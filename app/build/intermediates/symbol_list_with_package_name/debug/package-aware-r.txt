@@ -2383,7 +2383,6 @@ id animateToEnd
 id animateToStart
 id antiClockwise
 id anticipate
-id app_bar_search
 id arc
 id asConfigured
 id async
@@ -2450,6 +2449,7 @@ id customPanel
 id cut
 id dashboard
 id date_picker_actions
+id deal
 id dealsFragment
 id decelerate
 id decelerateAndComplete
@@ -2505,7 +2505,6 @@ id fill
 id fill_horizontal
 id fill_vertical
 id filled
-id fire
 id fitToContents
 id fixed
 id flip

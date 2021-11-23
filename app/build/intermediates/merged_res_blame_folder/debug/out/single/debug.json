@@ -28,12 +28,12 @@
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/layout/activity_home_screen.xml"
     },
     {
-        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
-        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/layout/activity_main.xml"
-    },
-    {
         "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/font_lexendgigaextralight.ttf.flat",
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigaextralight.ttf"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_search_black_24dp.xml.flat",
@@ -176,12 +176,12 @@
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/layout/fragment_deals.xml"
     },
     {
-        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/navigation_nav.xml.flat",
-        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/navigation/nav.xml"
-    },
-    {
         "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/menu_top_nav.xml.flat",
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/menu/top_nav.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/navigation_nav.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/navigation/nav.xml"
     },
     {
         "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_background.xml.flat",

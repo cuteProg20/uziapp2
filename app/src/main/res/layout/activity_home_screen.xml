@@ -22,6 +22,7 @@
             android:layout_height="65dp"
             app:title="@string/Home"
             app:menu="@menu/top_nav"
+
             app:navigationIcon="@drawable/ic_uzi_icon2"
             android:paddingLeft="20dp"
             android:paddingRight="20dp"
@@ -63,4 +64,3 @@
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
