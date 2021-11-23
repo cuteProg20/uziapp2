@@ -6,31 +6,57 @@
     android:layout_height="match_parent"
     tools:context=".HomeScreen">
 
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="414dp"
+        android:layout_height="65dp"
+        app:layout_constraintBottom_toTopOf="@+id/fragmentContainerView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.666"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/topAppBar"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            app:menu="@menu/top_nav"
+            app:navigationIcon="@drawable/ic_uzi_icon2"
+            style="@style/Widget.MaterialComponents.Toolbar.Primary"
+            android:background="@color/purple_200"/>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottomNavigationView"
-        android:layout_width="305dp"
+        android:layout_width="350dp"
         android:layout_height="70dp"
         android:layout_gravity="center_horizontal"
-        android:background="@drawable/bottom_nav"
-        app:menu="@menu/bottom_nav"
-        tools:ignore="MissingConstraints"
         android:layout_margin="30dp"
-        app:itemRippleColor="@android:color/transparent"
-        tools:layout_editor_absoluteX="55dp"
-        tools:layout_editor_absoluteY="629dp"
-        app:labelVisibilityMode="unlabeled"
+        android:background="@drawable/bottom_nav"
         app:itemIconTint="@drawable/item_selector"
-        />
+        app:itemRippleColor="@android:color/transparent"
+        app:labelVisibilityMode="unlabeled"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.726"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:menu="@menu/bottom_nav"
+        tools:ignore="MissingConstraints" />
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView"
         android:name="com.example.project101.HomeFragment"
-        android:layout_width="413dp"
-        android:layout_height="573dp"
-        app:layout_constraintBottom_toTopOf="@+id/bottomNavigationView"
-        tools:layout_editor_absoluteX="-2dp"
+        android:layout_width="411dp"
+        android:layout_height="664dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.98"
         tools:ignore="MissingConstraints"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_home"
+        tools:layout_editor_absoluteX="0dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

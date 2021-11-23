@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/bottom_nav.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/ic_background.xml" value="0.4197916666666667" />
+        <entry key="app/src/main/res/drawable/ic_cart.xml" value="0.40520833333333334" />
         <entry key="app/src/main/res/drawable/ic_flag_tanzania.xml" value="0.40520833333333334" />
         <entry key="app/src/main/res/drawable/ic_home_12_filled.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.4197916666666667" />
@@ -14,6 +15,8 @@
         <entry key="app/src/main/res/drawable/ic_polygon1.xml" value="0.40520833333333334" />
         <entry key="app/src/main/res/drawable/ic_polygon_2.xml" value="0.40520833333333334" />
         <entry key="app/src/main/res/drawable/ic_polygon_3.xml" value="0.40520833333333334" />
+        <entry key="app/src/main/res/drawable/ic_ucon.xml" value="0.40520833333333334" />
+        <entry key="app/src/main/res/drawable/ic_uzi_icon.xml" value="0.40520833333333334" />
         <entry key="app/src/main/res/drawable/inputrect.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/item_selector.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/rectangle.xml" value="0.4197916666666667" />
@@ -27,6 +30,7 @@
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/layout/login_page.xml" value="0.46145833333333336" />
         <entry key="app/src/main/res/menu/bottom_nav.xml" value="0.23125" />
+        <entry key="app/src/main/res/menu/top_nav.xml" value="0.3890625" />
       </map>
     </option>
   </component>
