@@ -2168,9 +2168,11 @@ drawable ic_polygon_2
 drawable ic_polygon_3
 drawable ic_round_email
 drawable ic_search
+drawable ic_search_black_24dp
 drawable ic_ucon
 drawable ic_user
 drawable ic_uzi_icon
+drawable ic_uzi_icon2
 drawable ic_v1_fire
 drawable ic_wh_profile
 drawable inputrect
@@ -2381,6 +2383,7 @@ id animateToEnd
 id animateToStart
 id antiClockwise
 id anticipate
+id app_bar_search
 id arc
 id asConfigured
 id async
@@ -2408,6 +2411,7 @@ id cancel_action
 id cancel_button
 id cardViewRoot
 id carryVelocity
+id cart
 id center
 id center_horizontal
 id center_vertical
@@ -2793,6 +2797,7 @@ id titleDividerNoCustom
 id title_template
 id toggle
 id top
+id topAppBar
 id topPanel
 id touch_outside
 id transitionToEnd
@@ -3003,6 +3008,7 @@ layout text_view_without_line_height
 menu bottom_nav
 menu example_menu
 menu example_menu2
+menu top_nav
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav
@@ -3086,6 +3092,7 @@ string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
+string cart
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
@@ -3173,6 +3180,7 @@ string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string phone
+string search
 string search_hint
 string search_menu_title
 string select_country

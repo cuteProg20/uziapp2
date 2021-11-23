@@ -2167,9 +2167,11 @@ int drawable ic_polygon_2 0x7f070173
 int drawable ic_polygon_3 0x7f070174
 int drawable ic_round_email 0x7f070175
 int drawable ic_search 0x7f070176
+int drawable ic_search_black_24dp 0x7f0701a4
 int drawable ic_ucon 0x7f070177
 int drawable ic_user 0x7f070178
 int drawable ic_uzi_icon 0x7f070179
+int drawable ic_uzi_icon2 0x7f0701a5
 int drawable ic_v1_fire 0x7f07017a
 int drawable ic_wh_profile 0x7f07017b
 int drawable inputrect 0x7f07017c
@@ -2380,6 +2382,7 @@ int id animateToEnd 0x7f09008f
 int id animateToStart 0x7f090090
 int id antiClockwise 0x7f090091
 int id anticipate 0x7f090092
+int id app_bar_search 0x7f09024f
 int id arc 0x7f090093
 int id asConfigured 0x7f090094
 int id async 0x7f090095
@@ -2407,6 +2410,7 @@ int id cancel_action 0x7f0900aa
 int id cancel_button 0x7f0900ab
 int id cardViewRoot 0x7f0900ac
 int id carryVelocity 0x7f0900ad
+int id cart 0x7f090250
 int id center 0x7f0900ae
 int id center_horizontal 0x7f0900af
 int id center_vertical 0x7f0900b0
@@ -2792,6 +2796,7 @@ int id titleDividerNoCustom 0x7f09022b
 int id title_template 0x7f09022c
 int id toggle 0x7f09022d
 int id top 0x7f09022e
+int id topAppBar 0x7f090251
 int id topPanel 0x7f09022f
 int id touch_outside 0x7f090230
 int id transitionToEnd 0x7f090231
@@ -3002,6 +3007,7 @@ int layout text_view_without_line_height 0x7f0c0086
 int menu bottom_nav 0x7f0d0000
 int menu example_menu 0x7f0d0001
 int menu example_menu2 0x7f0d0002
+int menu top_nav 0x7f0d0003
 int mipmap ic_launcher 0x7f0e0000
 int mipmap ic_launcher_round 0x7f0e0001
 int navigation nav 0x7f0f0000
@@ -3085,6 +3091,7 @@ int string app_name 0x7f120025
 int string appbar_scrolling_view_behavior 0x7f120026
 int string bottom_sheet_behavior 0x7f120027
 int string bottomsheet_action_expand_halfway 0x7f120028
+int string cart 0x7f12008c
 int string character_counter_content_description 0x7f120029
 int string character_counter_overflowed_content_description 0x7f12002a
 int string character_counter_pattern 0x7f12002b
@@ -3172,6 +3179,7 @@ int string path_password_eye_mask_strike_through 0x7f12007c
 int string path_password_eye_mask_visible 0x7f12007d
 int string path_password_strike_through 0x7f12007e
 int string phone 0x7f12007f
+int string search 0x7f12008d
 int string search_hint 0x7f120080
 int string search_menu_title 0x7f120081
 int string select_country 0x7f120082

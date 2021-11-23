@@ -36,6 +36,10 @@
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/font/lexendgigaextralight.ttf"
     },
     {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_search_black_24dp.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_search_black_24dp.xml"
+    },
+    {
         "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_item_selector.xml.flat",
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/item_selector.xml"
     },
@@ -176,6 +180,10 @@
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/navigation/nav.xml"
     },
     {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/menu_top_nav.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/menu/top_nav.xml"
+    },
+    {
         "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_background.xml.flat",
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_background.xml"
     },
@@ -202,6 +210,10 @@
     {
         "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_polygon1.xml.flat",
         "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_polygon1.xml"
+    },
+    {
+        "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable_ic_uzi_icon2.xml.flat",
+        "source": "/Users/developer/AndroidStudioProjects/project102/app/src/main/res/drawable/ic_uzi_icon2.xml"
     },
     {
         "merged": "/Users/developer/AndroidStudioProjects/project102/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_cart.png.flat",

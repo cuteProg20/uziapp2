@@ -20,8 +20,11 @@
             android:id="@+id/topAppBar"
             android:layout_width="match_parent"
             android:layout_height="65dp"
+            app:title="@string/Home"
             app:menu="@menu/top_nav"
             app:navigationIcon="@drawable/ic_uzi_icon2"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
             style="@style/Widget.MaterialComponents.Toolbar.Primary"
             android:background="@color/purple_200"/>
 
