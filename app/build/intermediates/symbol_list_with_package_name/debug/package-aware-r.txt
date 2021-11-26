@@ -2211,6 +2211,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable rectangle
+drawable rectangle_1
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -2529,6 +2530,7 @@ id homeAsUp
 id homeFragment
 id honorRequest
 id horizontal_only
+id hot_deals
 id icon
 id icon_group
 id ifRoom
@@ -2673,6 +2675,7 @@ id progress_circular
 id progress_horizontal
 id radio
 id ratio
+id rectangle_1
 id rectangles
 id recycler_countryDialog
 id reverseSawtooth
@@ -3109,6 +3112,7 @@ string forget_password1
 string fullname
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
+string hot_deals
 string icon_content_description
 string item_view_role_description
 string joe_email_com
@@ -3919,6 +3923,7 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style hot_deals
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth

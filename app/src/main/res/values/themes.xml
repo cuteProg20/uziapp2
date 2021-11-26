@@ -13,7 +13,11 @@
 
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        </style>
 
+    <style name="hot_deals">
         <!-- Customize your theme here. -->
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#09101A</item>
     </style>
 </resources>

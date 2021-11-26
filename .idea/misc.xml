@@ -20,17 +20,20 @@
         <entry key="app/src/main/res/drawable/inputrect.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/item_selector.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/drawable/rectangle.xml" value="0.4197916666666667" />
+        <entry key="app/src/main/res/drawable/rectangle_1.xml" value="0.4197916666666667" />
         <entry key="app/src/main/res/layout/activity_forget_password.xml" value="0.3890625" />
         <entry key="app/src/main/res/layout/activity_forget_password2.xml" value="0.4036458333333333" />
-        <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4036458333333333" />
-        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_deals.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.38958333333333334" />
         <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/layout/login_page.xml" value="0.46145833333333336" />
         <entry key="app/src/main/res/menu/bottom_nav.xml" value="0.23125" />
         <entry key="app/src/main/res/menu/top_nav.xml" value="0.3890625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.40520833333333334" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.40520833333333334" />
       </map>
     </option>
   </component>

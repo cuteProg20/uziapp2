@@ -4,48 +4,37 @@ package com.example.project101
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
-import androidx.navigation.ui.setupWithNavController
-import com.google.android.material.bottomnavigation.BottomNavigationView
+import kotlinx.android.synthetic.main.activity_home_screen.*
 
 class HomeScreen : AppCompatActivity() {
 
-    private lateinit var currentFragment : Fragment
+    val homeFragment = HomeFragment()
+    val dealsFragment = DealsFragment()
+    val profileFragment = ProfileFragment()
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home_screen)
-        supportFragmentManager.beginTransaction().replace(R.id.fragmentContainerView, currentFragment).commit()
+        replaceFragment(homeFragment)
 
-        val bottomNav : BottomNavigationView = findViewById(R.id.fragmentContainerView)
-
-        //setup with nav_controller
-        bottomNav.setupWithNavController (navController)
-
-        //setting the nav listener in the bottom navigation
-       bottomNav.setOnNavigationItemReselectedListener { navController}
-    }
-
-    //create navigation listener function
-
-    val navController = BottomNavigationView.OnNavigationItemReselectedListener {
-        when(
-            it.itemId
-        ){
-            R.id.home -> {
-                currentFragment = HomeFragment()
+        bottomNavigationView.setOnNavigationItemSelectedListener {
+            when (it.itemId){
+                R.id.dashboard -> replaceFragment(homeFragment)
+                R.id.deal -> replaceFragment(dealsFragment)
+                R.id.profile -> replaceFragment(profileFragment)
             }
-
-            R.id.deal -> {
-                currentFragment = DealsFragment()
-            }
-
-            R.id.profile -> {
-                currentFragment = ProfileFragment()
-            }
+            true
         }
-    supportFragmentManager.beginTransaction().replace(R.id.fragmentContainerView, currentFragment).commit()
-        true
+
     }
 
+    private fun replaceFragment (fragment: Fragment){
+        val transaction = supportFragmentManager.beginTransaction()
+        transaction.replace(R.id.fragmentContainerView, fragment)
+        transaction.commit()
+    }
 }
+
+
 
