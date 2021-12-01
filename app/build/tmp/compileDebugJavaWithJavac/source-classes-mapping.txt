@@ -10,11 +10,11 @@ com/example/project101/databinding/FragmentHomeBinding.java
  com.example.project101.databinding.FragmentHomeBinding
 com/example/project101/databinding/ActivitySignUpBinding.java
  com.example.project101.databinding.ActivitySignUpBinding
-com/example/project101/databinding/ActivityHomeScreenBinding.java
- com.example.project101.databinding.ActivityHomeScreenBinding
+com/example/project101/databinding/FragmentProfileBinding.java
+ com.example.project101.databinding.FragmentProfileBinding
 com/example/project101/databinding/ActivityForgetPasswordBinding.java
  com.example.project101.databinding.ActivityForgetPasswordBinding
 com/example/project101/databinding/LoginPageBinding.java
  com.example.project101.databinding.LoginPageBinding
-com/example/project101/databinding/FragmentProfileBinding.java
- com.example.project101.databinding.FragmentProfileBinding
+com/example/project101/databinding/ActivityHomeScreenBinding.java
+ com.example.project101.databinding.ActivityHomeScreenBinding

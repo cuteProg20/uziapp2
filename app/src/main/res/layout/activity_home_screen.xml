@@ -7,10 +7,12 @@
     tools:context=".HomeScreen">
 
     <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/top"
         android:layout_width="414dp"
         android:layout_height="65dp"
         app:layout_constraintBottom_toTopOf="@+id/fragmentContainerView"
         app:layout_constraintEnd_toEndOf="parent"
+        android:touchscreenBlocksFocus="true"
         app:layout_constraintHorizontal_bias="0.666"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -18,16 +20,15 @@
 
         <com.google.android.material.appbar.MaterialToolbar
             android:id="@+id/topAppBar"
+            style="@style/Widget.MaterialComponents.Toolbar.Primary"
             android:layout_width="match_parent"
             android:layout_height="65dp"
-            app:title="@string/Home"
-            app:menu="@menu/top_nav"
-
-            app:navigationIcon="@drawable/ic_uzi_icon2"
+            android:background="@color/purple_200"
             android:paddingLeft="20dp"
             android:paddingRight="20dp"
-            style="@style/Widget.MaterialComponents.Toolbar.Primary"
-            android:background="@color/purple_200"/>
+            app:menu="@menu/top_nav"
+            app:navigationIcon="@drawable/ic_uzi_icon2"
+            app:title="@string/Home" />
 
     </com.google.android.material.appbar.AppBarLayout>
 
@@ -56,12 +57,12 @@
         android:layout_width="411dp"
         android:layout_height="664dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/topAppBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/top"
         app:layout_constraintVertical_bias="0.98"
         app:navGraph="@navigation/nav"
-        tools:ignore="MissingConstraints,NotSibling"
-        tools:layout="@layout/fragment_home"
-        tools:layout_editor_absoluteX="0dp" />
+        tools:layout="@layout/fragment_home" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
